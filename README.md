@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedavez125&show_icons=true&locale=en" alt="mohammedavez125" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedavez125&" alt="mohammedavez125" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedavez125&theme=radical" alt="mohammedavez125" /></p>
