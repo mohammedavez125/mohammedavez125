@@ -67,14 +67,12 @@
 
 ### 📊 GitHub Activity
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedavez125&layout=compact&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.sh/api?username=mohammedavez125&bg_color=1a1b27&color=7fff00&line=ffffff&point=ffb300" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=mohammedavez125&theme=dark" width="48%" />
 </p>
 
----
 
 ### 🌐 Connect With Me
 
